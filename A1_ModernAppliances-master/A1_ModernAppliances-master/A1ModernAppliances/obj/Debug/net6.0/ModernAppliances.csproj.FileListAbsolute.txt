@@ -1,0 +1,15 @@
+E:\sem2\c#\assignment\A1_ModernAppliances-master_2\A1_ModernAppliances-master\A1_ModernAppliances-master\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.exe
+E:\sem2\c#\assignment\A1_ModernAppliances-master_2\A1_ModernAppliances-master\A1_ModernAppliances-master\A1ModernAppliances\bin\Debug\net6.0\appliances.txt
+E:\sem2\c#\assignment\A1_ModernAppliances-master_2\A1_ModernAppliances-master\A1_ModernAppliances-master\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.deps.json
+E:\sem2\c#\assignment\A1_ModernAppliances-master_2\A1_ModernAppliances-master\A1_ModernAppliances-master\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.runtimeconfig.json
+E:\sem2\c#\assignment\A1_ModernAppliances-master_2\A1_ModernAppliances-master\A1_ModernAppliances-master\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.dll
+E:\sem2\c#\assignment\A1_ModernAppliances-master_2\A1_ModernAppliances-master\A1_ModernAppliances-master\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.pdb
+E:\sem2\c#\assignment\A1_ModernAppliances-master_2\A1_ModernAppliances-master\A1_ModernAppliances-master\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.GeneratedMSBuildEditorConfig.editorconfig
+E:\sem2\c#\assignment\A1_ModernAppliances-master_2\A1_ModernAppliances-master\A1_ModernAppliances-master\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.AssemblyInfoInputs.cache
+E:\sem2\c#\assignment\A1_ModernAppliances-master_2\A1_ModernAppliances-master\A1_ModernAppliances-master\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.AssemblyInfo.cs
+E:\sem2\c#\assignment\A1_ModernAppliances-master_2\A1_ModernAppliances-master\A1_ModernAppliances-master\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.csproj.CoreCompileInputs.cache
+E:\sem2\c#\assignment\A1_ModernAppliances-master_2\A1_ModernAppliances-master\A1_ModernAppliances-master\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.dll
+E:\sem2\c#\assignment\A1_ModernAppliances-master_2\A1_ModernAppliances-master\A1_ModernAppliances-master\A1ModernAppliances\obj\Debug\net6.0\refint\ModernAppliances.dll
+E:\sem2\c#\assignment\A1_ModernAppliances-master_2\A1_ModernAppliances-master\A1_ModernAppliances-master\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.pdb
+E:\sem2\c#\assignment\A1_ModernAppliances-master_2\A1_ModernAppliances-master\A1_ModernAppliances-master\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.genruntimeconfig.cache
+E:\sem2\c#\assignment\A1_ModernAppliances-master_2\A1_ModernAppliances-master\A1_ModernAppliances-master\A1ModernAppliances\obj\Debug\net6.0\ref\ModernAppliances.dll
